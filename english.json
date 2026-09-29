@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome",
+  "good_morning": "Good Morning",
+  "yes": "Yes",
+  "no": "No",
+  "login": "Login",
+  "logout": "Logout",
+  "home": "Home",
+  "profile": "Profile",
+  "settings": "Settings",
+  "search": "Search",
+  "save": "Save",
+  "cancel": "Cancel",
+  "next": "Next",
+  "back": "Back",
+  "submit": "Submit",
+  "start_learning": "Start Learning",
+  "course": "Course",
+  "progress": "Progress",
+  "thank_you": "Thank You"
+}

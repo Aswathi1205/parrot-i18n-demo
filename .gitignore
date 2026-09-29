@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+
+practice-ui/node_modules/
+practice-ui/dist/
